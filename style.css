@@ -1,0 +1,24 @@
+html,
+body {
+  direction: rtl;
+  text-align: right;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.about {
+  background-color: rgba(0, 0, 128, 0.7960784314);
+}
+.about h2 {
+  background-color: red;
+}
+.about img {
+  max-width: 100%;
+  height: auto;
+}
+
+/*# sourceMappingURL=style.css.map */
